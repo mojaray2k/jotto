@@ -2,9 +2,7 @@
 
 ## A React / Redux app used to demonstrate testing
 
-### Challenges
-
-#### 1. Number of Guesses
+### 1. Number of Guesses
 
 ![Number of Guesses Wireframe](https://raw.githubusercontent.com/mojaray2k/jotto/master/images/number-of-guesses_wireframe.png)
 

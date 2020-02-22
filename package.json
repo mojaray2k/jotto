@@ -31,5 +31,10 @@
       "last 1 safari version"
     ]
   },
-  "author": "Amen Moja Ra"
+  "author": "Amen Moja Ra",
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jest-enzyme": "^7.1.2"
+  }
 }
