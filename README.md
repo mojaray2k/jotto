@@ -45,6 +45,14 @@
   - _App_
 - **Test action creator calls**
 
+### _success_ State Planning
+
+- **Action creator for** _CONNECT_GUESS_ **action**
+- **Success reducer**
+  - **Controls** _success_ **piece of state**
+  - **Start with value of** _false_
+  - **Flip** _success_ **to** _true_ **upon** _CONNECT_GUESS_ **action**
+
 #### 1. Number of Guesses
 
 ![Number of Guesses Wireframe](https://raw.githubusercontent.com/mojaray2k/jotto/master/images/number-of-guesses_wireframe.png)
